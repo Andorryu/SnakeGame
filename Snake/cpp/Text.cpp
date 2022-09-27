@@ -1,4 +1,4 @@
-#include "Text.h"
+#include "../header/Text.h"
 
 Text::Text(std::string text, int size, sf::Vector2f position, bool centeredX, bool centeredY)
 {

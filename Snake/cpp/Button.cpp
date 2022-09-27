@@ -1,4 +1,4 @@
-#include "Button.h"
+#include "../header/Button.h"
 
 Button::Button(std::string text, int size, sf::Vector2f position, bool centeredX, bool centeredY)
 {

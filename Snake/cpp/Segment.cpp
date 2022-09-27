@@ -1,4 +1,4 @@
-#include "Segment.h"
+#include "../header/Segment.h"
 
 Segment::Segment(sf::Vector2f position)
 {

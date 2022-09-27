@@ -1,4 +1,4 @@
-#include "Input.h"
+#include "../header/Input.h"
 
 sf::Event Input::ev;
 bool Input::m_up = false;

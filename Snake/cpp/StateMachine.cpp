@@ -1,3 +1,3 @@
-#include "StateMachine.h"
+#include "../header/StateMachine.h"
 
 std::string StateMachine::state = "menu";

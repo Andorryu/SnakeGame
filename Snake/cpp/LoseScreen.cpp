@@ -1,4 +1,4 @@
-#include "LoseScreen.h"
+#include "../header/LoseScreen.h"
 #include <iostream>
 
 LoseScreen::LoseScreen()
